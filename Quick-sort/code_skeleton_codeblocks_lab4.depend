@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1552250038 source:c:\facultate\algorithm design\labs\lab 4\code_skeleton_codeblocks_lab4\sort.c
+	"vectors.h"
+
+1552219931 c:\facultate\algorithm design\labs\lab 4\code_skeleton_codeblocks_lab4\vectors.h
+
+1551641249 source:c:\facultate\algorithm design\labs\lab 4\code_skeleton_codeblocks_lab4\utils.c
+	<stdio.h>
+	<stdlib.h>
+	"utils.h"
+
+1551637661 c:\facultate\algorithm design\labs\lab 4\code_skeleton_codeblocks_lab4\utils.h
+
+1552252203 source:c:\facultate\algorithm design\labs\lab 4\code_skeleton_codeblocks_lab4\vectors.c
+	<stdio.h>
+	<stdlib.h>
+	"vectors.h"
+
+1647525410 source:c:\users\alexandra\desktop\code_skeleton_codeblocks_lab4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"vectors.h"
+	"sort.h"
+	"utils.h"
+
+1552252935 c:\users\alexandra\desktop\code_skeleton_codeblocks_lab4\vectors.h
+
+1552225841 c:\users\alexandra\desktop\code_skeleton_codeblocks_lab4\sort.h
+
+1551637661 c:\users\alexandra\desktop\code_skeleton_codeblocks_lab4\utils.h
+
+1647522266 source:c:\users\alexandra\desktop\code_skeleton_codeblocks_lab4\sort.c
+	"vectors.h"
+
+1551641249 source:c:\users\alexandra\desktop\code_skeleton_codeblocks_lab4\utils.c
+	<stdio.h>
+	<stdlib.h>
+	"utils.h"
+
+1647523933 source:c:\users\alexandra\desktop\code_skeleton_codeblocks_lab4\vectors.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"vectors.h"
+

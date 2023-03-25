@@ -1,0 +1,80 @@
+# depslib dependency file v1.0
+1551030108 source:c:\facultate\algorithm design\labs\lab 3\code_skeleton_codeblocks_lab3\sort.c
+	"vectors.h"
+
+1551030108 c:\facultate\algorithm design\labs\lab 3\code_skeleton_codeblocks_lab3\vectors.h
+
+1551641249 source:c:\facultate\algorithm design\labs\lab 3\code_skeleton_codeblocks_lab3\utils.c
+	<stdio.h>
+	<stdlib.h>
+	"utils.h"
+
+1551637661 c:\facultate\algorithm design\labs\lab 3\code_skeleton_codeblocks_lab3\utils.h
+
+1551187803 source:c:\facultate\algorithm design\labs\lab 3\code_skeleton_codeblocks_lab3\vectors.c
+	<stdio.h>
+	<stdlib.h>
+	"vectors.h"
+
+1551643133 source:c:\facultate\algorithm design\labs\lab 3\code_skeleton_codeblocks_lab3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"vectors.h"
+	"sort.h"
+	"utils.h"
+
+1551030108 c:\facultate\algorithm design\labs\lab 3\code_skeleton_codeblocks_lab3\sort.h
+
+1646843804 source:c:\users\alexandra\desktop\code_skeleton_codeblocks_lab3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"vectors.h"
+	"sort.h"
+	"utils.h"
+
+1551030108 c:\users\alexandra\desktop\code_skeleton_codeblocks_lab3\vectors.h
+
+1551030108 c:\users\alexandra\desktop\code_skeleton_codeblocks_lab3\sort.h
+
+1646843511 c:\users\alexandra\desktop\code_skeleton_codeblocks_lab3\utils.h
+
+1551030108 source:c:\users\alexandra\desktop\code_skeleton_codeblocks_lab3\sort.c
+	"vectors.h"
+
+1551187803 source:c:\users\alexandra\desktop\code_skeleton_codeblocks_lab3\vectors.c
+	<stdio.h>
+	<stdlib.h>
+	"vectors.h"
+
+1646844361 source:c:\users\alexandra\desktop\code_skeleton_codeblocks_lab3\utils.c
+	<stdio.h>
+	<stdlib.h>
+	"utils.h"
+
+1646843804 source:c:\users\alexandra\desktop\code_skeleton_codeblocks_lab3-modifica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"vectors.h"
+	"sort.h"
+	"utils.h"
+
+1551030108 c:\users\alexandra\desktop\code_skeleton_codeblocks_lab3-modifica\vectors.h
+
+1551030108 c:\users\alexandra\desktop\code_skeleton_codeblocks_lab3-modifica\sort.h
+
+1646843511 c:\users\alexandra\desktop\code_skeleton_codeblocks_lab3-modifica\utils.h
+
+1551030108 source:c:\users\alexandra\desktop\code_skeleton_codeblocks_lab3-modifica\sort.c
+	"vectors.h"
+
+1551187803 source:c:\users\alexandra\desktop\code_skeleton_codeblocks_lab3-modifica\vectors.c
+	<stdio.h>
+	<stdlib.h>
+	"vectors.h"
+
+1647122851 source:c:\users\alexandra\desktop\code_skeleton_codeblocks_lab3-modifica\utils.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"utils.h"
+

@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1553985863 source:c:\users\alexandra\desktop\code_skeleton_codeblocks_lab7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<mem.h>
+	"vectors.h"
+	"sort.h"
+	"utils.h"
+	"linked_lists.h"
+	"doubly_linked_lists.h"
+
+1649594508 c:\users\alexandra\desktop\code_skeleton_codeblocks_lab7\vectors.h
+
+1649594538 c:\users\alexandra\desktop\code_skeleton_codeblocks_lab7\sort.h
+
+1649594535 c:\users\alexandra\desktop\code_skeleton_codeblocks_lab7\utils.h
+
+1649594543 c:\users\alexandra\desktop\code_skeleton_codeblocks_lab7\linked_lists.h
+
+1649594547 c:\users\alexandra\desktop\code_skeleton_codeblocks_lab7\doubly_linked_lists.h
+
+1649594545 source:c:\users\alexandra\desktop\code_skeleton_codeblocks_lab7\linked_lists.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"linked_lists.h"
+
+1649594541 source:c:\users\alexandra\desktop\code_skeleton_codeblocks_lab7\sort.c
+	"vectors.h"
+
+1649594537 source:c:\users\alexandra\desktop\code_skeleton_codeblocks_lab7\utils.c
+	<stdio.h>
+	<stdlib.h>
+	"utils.h"
+
+1649594533 source:c:\users\alexandra\desktop\code_skeleton_codeblocks_lab7\vectors.c
+	<stdio.h>
+	<stdlib.h>
+	"vectors.h"
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1555268968 source:c:\facultate\algorithm design\labs\lab 9\code_skeleton_lab9\graphs.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"graphs.h"
+
+1555266783 c:\facultate\algorithm design\labs\lab 9\code_skeleton_lab9\graphs.h
+

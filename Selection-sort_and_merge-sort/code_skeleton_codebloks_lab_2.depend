@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1646485593 source:c:\users\alexandra\desktop\code_skeleton_codebloks_lab_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"vectors.h"
+	"sort.h"
+
+1551017657 c:\users\alexandra\desktop\code_skeleton_codebloks_lab_2\vectors.h
+
+1550958144 c:\users\alexandra\desktop\code_skeleton_codebloks_lab_2\sort.h
+
+1646485848 source:c:\users\alexandra\desktop\code_skeleton_codebloks_lab_2\vectors.c
+	<stdio.h>
+	<stdlib.h>
+	"vectors.h"
+
+1646488215 source:c:\users\alexandra\desktop\code_skeleton_codebloks_lab_2\sort.c
+	"vectors.h"
+

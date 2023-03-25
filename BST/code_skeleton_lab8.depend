@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1554666824 source:c:\facultate\algorithm design\labs\lab 8\code_skeleton_lab8\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tree.h"
+
+1554666772 c:\facultate\algorithm design\labs\lab 8\code_skeleton_lab8\tree.h
+

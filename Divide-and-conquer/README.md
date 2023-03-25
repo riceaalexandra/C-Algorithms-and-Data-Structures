@@ -1,0 +1,1 @@
+Design a divide-and-conquer algorithm for finding the maximum/minimum of an array S of n numbers. 
