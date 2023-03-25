@@ -1,2 +1,2 @@
-<h2>Knapsack Problem</h2><br>
+<h2>Knapsack Problem</h2>
 The Knapsack problem is a classic optimization problem in computer science and mathematics. Given a set of items, each with a weight and a value, and a knapsack with a maximum weight capacity, the problem is to determine the maximum value that can be obtained by selecting a subset of the items that fit into the knapsack and do not exceed its weight capacity. The problem is NP-hard, and several algorithms have been proposed to solve it, including dynamic programming, greedy algorithms, and branch-and-bound methods. The solution to the Knapsack problem has applications in a wide range of fields, including finance, logistics, and resource allocation.
