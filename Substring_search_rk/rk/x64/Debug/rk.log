@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\Alexandra\Desktop\OOP\Curs+Lab9_OOP\rk\rk\Source.cpp(19,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alexandra\Desktop\OOP\Curs+Lab9_OOP\rk\rk\Source.cpp(20,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alexandra\Desktop\OOP\Curs+Lab9_OOP\rk\rk\Source.cpp(74,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alexandra\Desktop\OOP\Curs+Lab9_OOP\rk\rk\Source.cpp(75,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alexandra\Desktop\OOP\Curs+Lab9_OOP\rk\rk\Source.cpp(94,27): warning C4101: 'timpfinaln': unreferenced local variable
+C:\Users\Alexandra\Desktop\OOP\Curs+Lab9_OOP\rk\rk\Source.cpp(94,13): warning C4101: 'timpinceputn': unreferenced local variable
+  rk.vcxproj -> C:\Users\Alexandra\Desktop\OOP\Curs+Lab9_OOP\rk\x64\Debug\rk.exe
